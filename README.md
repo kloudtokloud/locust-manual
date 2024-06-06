@@ -12,7 +12,7 @@ Performing Load Testing: Using Locust to simulate user load and evaluate the per
 Analyzing Results: Viewing real-time load test results via a web interface.
 Understanding Component Connections: Learning how Lambda, API Gateway, and DynamoDB work together seamlessly.
 Read the Full Article
-For detailed instructions and insights, please refer to the full article on LinkedIn:https://www.linkedin.com/pulse/article-1-load-testing-aws-serverless-locust-manual-gabriel-valentin-krane/?trackingId=uOtRUn8iSa2dz%2FJp1TjGcA%3D%3D
+For detailed instructions and insights, please refer to the full article on LinkedIn:https://www.linkedin.com/pulse/article-1-load-testing-aws-serverless-locust-manual-gabriel-valentin-krane
 
 Repository Contents
 IAM Policies: JSON files for creating IAM policies.
