@@ -1,8 +1,8 @@
 README for Locust Manual - Article 1
+![alt text](Locust-Manual.png)
+
 Locust Manual Setup Guide
 This repository contains scripts referenced in the LinkedIn article on setting up a serverless API using AWS Lambda, API Gateway, and DynamoDB, followed by load testing with Locust.
-
-![alt text](Locust-Manual.png)
 
 Overview
 In the article, we cover:
